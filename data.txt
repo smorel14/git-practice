@@ -1,0 +1,3 @@
+Name: SebMorelle
+Age: 28
+Favorite Color: Blue
